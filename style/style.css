@@ -1,0 +1,17 @@
+.footer, .btn, .jumbotron{
+	background-color: #827717;
+	color: #fff;
+	font-weight: bold;
+}
+.jumbotron{
+	border-radius: 1em;
+}
+.well-sm{
+	padding: 40px;
+	border-radius: 1em;
+}
+.row{
+	display:block;
+	margin-right:auto;
+	margin-left:auto;	
+}
